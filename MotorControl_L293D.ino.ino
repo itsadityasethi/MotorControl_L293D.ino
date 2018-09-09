@@ -10,7 +10,7 @@ void setup () {
 
   pinMode(motorpin1,OUTPUT);        //set pin 3 as output
 
-  pinMode(motorpin2,OUTPUT);        // set pin 4 as output
+  pinMode(motorpin2,OUTPUT);            // set pin 4 as output same as before
 
   
   
