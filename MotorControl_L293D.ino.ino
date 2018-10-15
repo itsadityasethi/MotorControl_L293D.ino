@@ -6,6 +6,8 @@ int motorpin1 = 3;                  //define digital output pin no.
 
 int motorpin2 = 4;                  //define digital output pin no.
 
+
+
 void setup () {
 
   pinMode(motorpin1,OUTPUT);        //set pin 3 as output
@@ -15,6 +17,14 @@ void setup () {
   
   
 }
+//blank
+//
+//
+//
+//
+//
+
+//
 
 void loop () {
   
